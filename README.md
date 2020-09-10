@@ -13,7 +13,7 @@
  The setup:
  ![Optional Text](../master/Figures/S1.jpg)
  
- ![Optional Text](../master/Figues/s2.jpg)
+ ![Optional Text](../master/Figrues/S2.jpg)
  
  The result graph:
- ![Optional Text](../master/Figues/s4.jpg)
+ ![Optional Text](../master/Figures/S4.jpg)
