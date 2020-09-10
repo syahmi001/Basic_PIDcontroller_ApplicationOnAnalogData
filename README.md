@@ -11,9 +11,17 @@
  Errors will surely bound to happen thus a PID controller is applied to the system.
  
  The setup:
+ 
+ 
  ![Optional Text](../master/Figures/S1.jpg)
+ 
+ 
  
  ![Optional Text](../master/Figures/S2.jpg)
  
+ 
+ 
  The result graph:
+ 
+ 
  ![Optional Text](../master/Figures/S4.jpg)
